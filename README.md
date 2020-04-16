@@ -1,3 +1,4 @@
+[![Maintained by Polarpoint.io](https://img.shields.io/badge/maintained%20by-polarpoint.io-%235849a6.svg)](https://polarpoint.io/?ref=terraform-azure-resource-group)
 # terraform-azure-resource-group
 Terraform module to create/provision Azure resource group
 
