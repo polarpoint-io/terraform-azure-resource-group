@@ -9,7 +9,7 @@ variable "location" {
 }
 
 variable "tags" {
-  type = list
-  description = "(Optional) list of tags"
+  type        = map(string)
+  description = "(Optional) map of tags"
 }
 
