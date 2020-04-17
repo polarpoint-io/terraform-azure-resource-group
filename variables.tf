@@ -9,7 +9,7 @@ variable "location" {
 }
 
 variable "tags" {
-  type = "list"
+  type = list
   description = "(Optional) list of tags"
 }
 
