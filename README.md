@@ -16,7 +16,7 @@ This module accepts the following variables
 | ------- | --------------- | ---------- |
 | name    | The Name to be used for this resource group. | Required |
 | location | The Azure Region where the resource group should exist. | Required 
-| environment | Environment name. If not specified, will use ""  | Optional |
-| company     | Company. If not specified, will use ""  | Optional |
-| organisation     | Organisation/department. If not specified, will use ""  | Optional |
-| service     | Service/contract. If not specified, will use ""  | Optional |
+| tags | "list"  | Optional |
+
+See https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging
+
